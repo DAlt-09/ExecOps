@@ -1,4 +1,4 @@
-Copyright 2025 ExecOps
+Copyright 2025 ExecOps Group
 
 All rights reserved.
 
