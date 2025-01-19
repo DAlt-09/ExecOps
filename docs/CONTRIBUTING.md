@@ -4,8 +4,8 @@
 ## Project Structure
 ### `ExecOps_Client` (Client-Side)
 
--`/ui`: Contains the user interface components.
-    `/views`: Different views of the UI.
+- `/ui`: Contains the user interface components.
+    - `/views`: Different views of the UI.
 - `/functions`: Handles data processing between the client and server.
 
 ### `ExecOps_Server` (Server-Side)
